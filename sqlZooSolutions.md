@@ -1,8 +1,8 @@
 ## Chapters:
-1. [SELECT basics](#select_basics)
-2. [SELECT name](#select_name)
-3. [SELECT FROM World](#select_from_world)
-4. [SELECT FROM Nobel](#select_from_nobel)
+1. [SELECT basics](#select-basics)
+2. [SELECT name](#select-name)
+3. [SELECT FROM World](#select-from-world)
+4. [SELECT FROM Nobel](#select-from-nobel)
 
 ## SELECT basics
 1. 
