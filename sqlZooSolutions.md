@@ -20,7 +20,7 @@
 	SELECT name, area FROM world
 	  WHERE area BETWEEN 200000 AND 250000
 ```
-## SELECT names
+## SELECT name
 1.
 ```sql - Find the country that start with Y
 	SELECT name FROM world
